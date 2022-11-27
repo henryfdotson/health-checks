@@ -1,2 +1,2 @@
 # health-checks
-Practice Repo for Google Certicication
+Practice Repo for Google Certification
